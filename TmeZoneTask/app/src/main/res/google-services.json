@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "358648702183",
+    "firebase_url": "https://timezone-android-1482292935412.firebaseio.com",
+    "project_id": "timezone-android-1482292935412",
+    "storage_bucket": "timezone-android-1482292935412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358648702183:android:c034a530964e0099",
+        "android_client_info": {
+          "package_name": "com.tmezonetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358648702183-412acd6rtv8hoio0vbggj68qs16m8skn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi7rLINeQJniacbMieKnful0aNsiGr9Xk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
